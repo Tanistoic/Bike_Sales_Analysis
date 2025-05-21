@@ -60,3 +60,4 @@ This project demonstrates how powerful insights can be drawn from well-structure
 
 ## Dashboard Preview
 
+![Dashboard](https://github.com/Tanistoic/Bike_Sales_Analysis/blob/main/dashboard.png)
